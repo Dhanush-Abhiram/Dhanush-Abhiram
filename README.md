@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Dhanush Abhiram
 
 ## 🚀 About Me
-I'm a passionate Software Engineer specializing in full-stack development with a strong focus on Python and Django. Currently pursuing my Master's in Computer Science at University at Buffalo - SUNY, I bring hands-on experience in healthcare technology and automation testing.
+I'm a passionate Software Engineer specializing in full-stack development with a strong focus on Python and Backend. Currently pursuing my Master's in Computer Science at University at Buffalo - SUNY, I bring hands-on experience in healthcare technology and automation testing.
 
 ## 💼 Professional Journey
 - 🏥 Python Developer at Eitacies.INC, Santa Clara
-- 🌟 Software Engineer at UnitedHealth Group
+- 🌟 Software Engineer at UnitedHealth Group, Optum
 - 🔄 Automation Test Engineer at Foodhub
 
 ## 🛠️ Tech Stack
